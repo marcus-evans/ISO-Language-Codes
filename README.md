@@ -1,4 +1,4 @@
-# ISO-639-language-codes
+# ISO-639-1 Language Codes
 Reference to language code
 Language | ISO Code
 -------- | --------
