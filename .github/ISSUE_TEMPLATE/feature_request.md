@@ -7,9 +7,9 @@ assignees: 'marcus-evans'
 ---
 Please used this guideline for submitting new feature request.
 
-Name | About | Title | Labels | Assignees
-------- | ------- | ---- | ------- | -----------
-Feature request | Suggest an idea for this project |  |  | 
+Name | About | Title | Description
+---- | ----- | ----- | -----------
+Feature request | Suggest an idea for this project | Your title goes here | Write your short description here.
 
 - [ ] **Is your feature request related to a problem?**
 Please describe a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
