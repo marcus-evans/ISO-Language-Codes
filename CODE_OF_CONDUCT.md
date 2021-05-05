@@ -1,8 +1,3 @@
----
-name: Code of Conduct
-about: Community Standard
-assignees: 'marcus-evans'
----
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
