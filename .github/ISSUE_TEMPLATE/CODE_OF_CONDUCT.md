@@ -1,6 +1,6 @@
 ---
 name: Code of Conduct
-about: Community Standard
+about: Community Standard contribute to enhanace our Code of Conduct
+label: documentation
 assignees: 'marcus-evans'
 ---
-# Contribute to enhance our Code of Conduct
