@@ -20,8 +20,8 @@ Add any other context or screenshots about the feature request here.
 Name | Feature Request
 ---- | ---------------
 Title: | *Your title goes here*
-About: | *Suggest an idea for this project*
 Description: | *Write short description here*
+About: | *Suggest an idea for this project*
 
 Write some additional concerns or reasons here: *please follow the Guideline checklist above* :
 1. Is your feature request related to a problem?:
