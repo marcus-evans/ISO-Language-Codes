@@ -1,10 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: 'Feature Request'
+title: 'Title of Feature Request'
 labels: 'enhancement'
 assignees: 'marcus-evans'
-
 ---
 Please used this guideline for submitting new feature request.
 
