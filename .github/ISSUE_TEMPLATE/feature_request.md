@@ -19,8 +19,8 @@ Add any other context or screenshots about the feature request here.
 
 Name | Feature Request
 ---- | ---------------
-About: | Suggest an idea for this project
 Title: | Your title goes here
+About: | Suggest an idea for this project
 Description: | Write short description here
 
 Write your answers/reasons here:
