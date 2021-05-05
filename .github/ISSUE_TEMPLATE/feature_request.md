@@ -1,10 +1,14 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: 'enhancement'
-assignees: 'marcus-evans'
----
+blank_issues_enabled: false
+contact_links:
+  - name: ISO Language Code
+    url: https://github.com/marcus-evans/ISO-Language-Codes
+    about: Please ask and answer questions here.
+  - name: Feature Request
+    url: https://github.com/marcus-evans/ISO-Language-Codes/issues
+    about: Suggest an idea for this project.
+    title: ''
+    labels: 'enhancement'
+    assignees: 'marcus-evans'
 
 Name | Feature Request
 ---- | ---------------
