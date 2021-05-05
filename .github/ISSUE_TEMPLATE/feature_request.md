@@ -1,3 +1,11 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
 Please used this guideline for submitting new feature request.
 
 Name | About | Title | Labels | Assignees
