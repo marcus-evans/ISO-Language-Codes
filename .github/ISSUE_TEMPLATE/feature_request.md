@@ -5,6 +5,13 @@ title: ''
 labels: 'enhancement'
 assignees: 'marcus-evans'
 ---
+
+Name | Feature Request
+---- | ---------------
+Title: | *Your title goes here*
+Description: | *Write short description here*
+About: | *Suggest an idea for this project*
+
 # Guideline Checklist
 Please used this guideline for submitting new feature request.
 
@@ -17,8 +24,3 @@ Please used this guideline for submitting new feature request.
 - [ ] **Additional context**
 *Add any other context or screenshots about the feature request here.*
 
-Name | Feature Request
----- | ---------------
-Title: | *Your title goes here*
-Description: | *Write short description here*
-About: | *Suggest an idea for this project*
