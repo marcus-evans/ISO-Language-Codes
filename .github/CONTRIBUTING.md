@@ -7,6 +7,14 @@ As a Contributor you must understand and remember that:
 - [ ] You must know your responsibilities.
 - [ ] You must understand that any inappropriate actions resulting to violate our Code of Conduct has following consequences that may subject to give you a written correction or warning, either lifting temporary ban or permanently ban on you.
 
+# How to Contribute
+1. Fork
+2. Branch
+3. Write and Test Code
+4. Commit
+5. Rebase
+6. Push and Open Pull Request
+
 # Steps for creating good issues or pull request.
 - [ ] Navigate to issues
 - [ ] Browse to list of open issues and select what kind of issues are you concern for.
