@@ -1,5 +1,4 @@
 # ISO-639-1 Language Codes
-Reference to language codes
 Language | ISO Code
 -------- | --------
 Abkhazia | ab
