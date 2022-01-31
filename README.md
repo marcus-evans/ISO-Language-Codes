@@ -1,195 +1,197 @@
 # ISO-639-1 Language Codes
-ID  | Language                            | ISO Code
---  | --------                            | --------
-1   | Abkhazia                            | ab
-2   | Afar                                | aa
-3   | Afrikaans                           | af
-4   | Akan                                | ak
-5   | Albanian                            | sq
-6   | Amharic                             | am
-7   | Arabic                              | ar
-8   | Aragonese                           | an
-9   | Armenian                            | hy
-10  | Assamese                            | as
-11  | Avaric                              | av
-12  | Avestan                             | ae
-13  | Aymara                              | ay
-14  | Azerbaijani                         | az
-15  | Bambara                             | bm
-16  | Bashkir                             | ba
-17  | Basque                              | eu
-18  | Belarusian                          | be
-19  | Bengali (Bangla)                    | bn
-20  | Bihari                              | bh
-21  | Bislama                             | bi
-22  | Bosnian                             | bs
-23  | Breton                              | br
-24  | Bulgarian                           | bg
-25  | Breton                              | br
-26  | Bulgarian                           | bg
-27  | Burmese                             | my
-28  | Catalan                             | ca
-29  | Chamorro                            | ch
-30  | Chechen                             | ce
-31  | Chichewa, Chewa, Nyanja             | ny
-32  | Chinese                             | zh
-33  | Chinese (simplified)                | zh-Hans
-34  | Chinese (traditional)               | zh-Hant
-35  | Chuvash                             | cv
-36  | Cornish                             | kw
-37  | Corsican                            | co
-38  | Cree                                | cr
-39  | Croatian                            | hr
-40  | Czech                               | cs
-41  | Danish                              | da
-42  | Divehi, Dhivehi, Maldivian          | dv
-43  | Dutch                               | nl
-44  | Dzongkha                            | dz
-45  | English                             | en
-46  | Esperanto                           | eo
-47  | Ewe                                 | ee
-48  | Faroese                             | fo
-49  | Fijian                              | fj
-50  | Finnish                             | fi
-51  |  French                              | fr
-52  | Fula, Fulah, Pulaar, Pular          | ff
-53  | Galician                            | gl
-54  | Gaeliac (Scottish)                  | gd
-55  | Gaelic (Manx)                       | gv
-56  | Georgian                            | ka
-57  | German                              | de
-58  | Greek                               | el
-59  | Greenlandiac                        | kl
-60  | Guarani                             | gn
-61  | Gujarati                            | gu
-62  | Haitian Creole                      | ht
-63  | Hausa                               | ha
-64  | Hebrew                              | he
-65  | Herero                              | hz
-66  | Hindi                               | hi
-67  | Hiri Motu                           | ho
-68  | Hungarian                           | hu
-69  | Icelandic                           | is
-70  | Ido                                 | io
-71  | Igbo                                | ig
-72  | Indonesian                          | id, in
-73  | Interlingua                         | ia
-74  | Interlingue                         | ie
-75  | Inuktitu                            | iu
-76  | Inupiak                             | ik
-77  | Irish                               | ga
-78  | Italian                             | it
-79  | Japanese                            | ja
-80  | Javanese                            | jv
-81  | Kalaallisut, Greenlandic            | kl
-82  | Kannada                             | kn
-83  | Kanuri                              | kr
-84  | Kashmiri                            | kr
-85  | Kazakh                              | kk
-86  | Khmer                               | km
-87  | Kikuyu                              | ki
-88  | Kiyarwanda (Rwanda)                 | rw
-89  | Kirundi                             | rn
-90  | Kyrgyz                              | ky
-91  | Komi                                | kv
-92  | Kongo                               | kg
-93  | Korean                              | ko
-94  | Kurdish                             | ku
-95  | Kwanyana                            | kj
-96  | Lao                                 | lo
-97  | Latin                               | la
-98  | Latvian (Lettish)                   | lv
-99  | Limburgish (Limburger)              | li
-100 | Lingala                             | ln
-101 | Lithuanian                          | lt
-102 | Luga-Katanga                        | lu
-103 | Lugandan, Ganda                     | lg
-104 | Luxemburgish                        | lb
-105 | Manx                                | gv
-106 | Macedonian                          | mk
-107 | Malagasy                            | mg
-108 | Malay                               | ms
-109 | Malayalam                           | ml
-110 | Maltese                             | mt
-111 | Maori                               | mi
-112 | Marathi                             | mr
-113 | Marshallese                         | mh
-114 | Moldavian                           | mh
-115 | Mongolian                           | mn
-116 | Nauru                               | na
-117 | Navajo                              | nv
-118 | Ndonga                              | ng
-119 | Northern Ndebele                    | nd
-120 | Nepali                              | ne
-121 | Norwegian                           | no
-122 | Norwegian bokmål                    | nb
-123 | Norwegian nynorsk                   | nn
-124 | Nuosu                               | ii
-125 | Occitan                             | oc
-126 | Ojibwe                              | oj
-127 | Old Church Slavonic, Old Bulgarian  | cu
-128 | Oriya                               | or
-129 | Oromo (Afaan Oromo)                 | om
-130 | Ossetian                            | os
-131 | Pāli                                | pi
-132 | Pashto, Pushto                      | ps
-133 | Persian (Farsi)                     | fa
-134 | Polish                              | pl
-135 | Portuguese                          | pt
-136 | Punjabi (Eastern)                   | pa
-137 | Quechua                             | qu
-138 | Romansh                             | rm
-139 | Romanian                            | ro
-140 | Russian                             | ru
-141 | Sami                                | se
-142 | Samoan                              | sm
-143 | Sango                               | sg
-144 | Sanskrit                            | sa
-145 | Serbian                             | sr
-146 | Serbo-Croatian                      | sh
-147 | Sesotho                             | st
-148 | Setswana                            | tn
-149 | Shona                               | sn
-150 | Sichuan Yi                          | ii
-151 | Sindhi                              | sd
-152 | Sinhalese                           | si
-153 | Siswati                             | ss
-154 | Slovak                              | sk
-155 | Slovenian                           | sl
-156 | Somali                              | so
-157 | Southern Ndebele                    | nr
-158 | Spanish                             | es
-159 | Sundanese                           | su
-160 | Swahili (Kiswahili)                 | sw
-161 | Swati                               | ss
-162 | Swedish                             | sv
-163 | Tagalog                             | tl
-164 | Tahitian                            | ty
-165 | Tajik                               | tg
-166 | Tamil                               | ta
-167 | Tatar                               | tt
-168 | Telugu                              | te
-169 | Thai                                | th
-170 | Tibetan                             | bo
-171 | Tigrinya                            | ti
-172 | Tonga                               | to
-173 | Tsonga                              | ts
-174 | Turkish                             | tr
-175 | Turkmen                             | tk
-176 | Twi                                 | tw
-177 | Uyghur                              | ug
-178 | Ukrainian                           | uk
-179 | Urdu                                | ur
-180 | Uzbek                               | uz
-181 | Venda                               | ve
-182 | Vietnamese                          | vi
-183 | Volapük                             | vo
-184 | Wallon                              | wa
-185 | Welsh                               | cy
-186 | Wolof                               | wo
-187 | Western Frisian                     | fy
-188 | Xhosa                               | xh
-189 | Yiddish                             | yi, ji
-190 | Yoruba                              | yo
-191 | Zhuang, Chuang                      | za
-192 | Zulu                                | zu
+ID  | Language                            | ISO Code  | Native Name (Endonym)
+--  | --------                            | --------  | -------
+1   | Abkhazia                            | ab        | аҧсуа бызшәа 
+2   | Afar                                | aa        | Afaraf
+3   | Afrikaans                           | af        | Afrikaans
+4   | Akan                                | ak        | Akan
+5   | Albanian                            | sq        | Shqip
+6   | Amharic                             | am        | አማርኛ
+7   | Arabic                              | ar        | اللغة العربية
+8   | Aragonese                           | an        | aragonés
+9   | Armenian                            | hy        | Հայերեն
+10  | Assamese                            | as        | অসমীয়া
+11  | Avaric                              | av        | авар мацӀ
+12  | Avestan                             | ae        | avesta
+13  | Aymara                              | ay        | aymar aru
+14  | Azerbaijani                         | az        | azərbaycan dili
+15  | Bambara                             | bm        | bamanankan
+16  | Bashkir                             | ba        | башҡорт теле
+17  | Basque                              | eu        | euskara
+18  | Belarusian                          | be        | беларуская мова
+19  | Bengali (Bangla)                    | bn        | বাংলা
+20  | Bihari                              | bh        | भोजपुरी
+21  | Bislama                             | bi        | Bislama
+22  | Bosnian                             | bs        | bosanski jezik
+23  | Breton                              | br        | brezhoneg
+24  | Bulgarian                           | bg        | български език
+25  | Breton                              | br        |
+26  | Bulgarian                           | bg        |
+27  | Burmese                             | my        | ဗမာစာ
+28  | Catalan                             | ca        | Català
+29  | Chamorro                            | ch        | Chamoru
+30  | Chechen                             | ce        | нохчийн мотт
+31  | Chichewa, Chewa, Nyanja             | ny        | chiCheŵa
+32  | Chinese                             | zh        |
+33  | Chinese (simplified)                | zh-Hans   | 中文
+34  | Chinese (traditional)               | zh-Hant   |
+35  | Chuvash                             | cv        | чӑваш чӗлхи
+36  | Cornish                             | kw        | Kernewek
+37  | Corsican                            | co        | corsu
+38  | Cree                                | cr        | ᓀᐦᐃᔭᐍᐏᐣ
+39  | Croatian                            | hr        | Hrvatski
+40  | Czech                               | cs        | čeština
+41  | Danish                              | da        | dansk
+42  | Divehi, Dhivehi, Maldivian          | dv        | Dhivehi
+43  | Dutch                               | nl        | Nederlands
+44  | Dzongkha                            | dz        | རྫོང་ཁ
+45  | English                             | en        | English
+46  | Esperanto                           | eo        | Esperanto
+47  | Estonian                            | et        | eesti
+48  | Ewe                                 | ee        | Eʋegbe
+49  | Faroese                             | fo        | føroyskt
+50  | Fijian                              | fj        | Vakaviti
+51  | Finnish                             | fi        | suomi
+52  | French                              | fr        | Français
+53  | Fula, Fulah, Pulaar, Pular          | ff        | Fulfulde
+54  | Galician                            | gl        | galego
+55  | Gaeliac (Scottish)                  | gd        | Gàidhlig
+56  | Gaelic (Manx)                       | gv        |
+57  | Georgian                            | ka        | ქართული
+58  | German                              | de        | Deutsch
+59  | Greek                               | el        | Ελληνικά
+60  | Greenlandiac                        | kl        |
+61  | Guarani                             | gn        |
+62  | Gujarati                            | gu        | ગુજરાતી
+63  | Haitian Creole                      | ht        | Kreyòl ayisyen
+64  | Hausa                               | ha        | هَوُسَ
+65  | Hebrew                              | he        | עברית
+66  | Herero                              | hz        | Otjiherero
+67  | Hindi                               | hi        | हिन्दी
+68  | Hiri Motu                           | ho        | Hiri Motu
+69  | Hungarian                           | hu        | magyar
+70  | Icelandic                           | is        | Íslenska
+71  | Ido                                 | io        | Ido
+72  | Igbo                                | ig        | Asụsụ Igbo
+73  | Indonesian                          | id, in    | Bahasa Indonesia
+74  | Interlingua                         | ia        | Interlingua
+75  | Interlingue                         | ie        | Interlingue
+76  | Inuktitu                            | iu        | ᐃᓄᒃᑎᑐᑦ 
+77  | Inupiak                             | ik        | Iñupiaq
+78  | Irish                               | ga        | Gaeilge
+79  | Italian                             | it        | Italiano
+80  | Japanese                            | ja        | 日本語
+81  | Javanese                            | jv        | basa Jawa
+82  | Kalaallisut, Greenlandic            | kl        | kalaallisut
+83  | Kannada                             | kn        | ಕನ್ನಡ
+84  | Kanuri                              | kr        | Kanuri
+85  | Kashmiri                            | kr        | कश्मीरी
+86  | Kazakh                              | kk        | қазақ тілі
+87  | Khmer                               | km        | ខេមរភាសា
+88  | Kikuyu                              | ki        | Gĩkũyũ
+89  | Kiyarwanda (Rwanda)                 | rw        | Ikinyarwanda
+90  | Kirundi                             | rn        | Ikirundi
+91  | Kyrgyz                              | ky        | Кыргызча
+92  | Komi                                | kv        | коми кыв
+93  | Kongo                               | kg        | Kikongo
+94  | Korean                              | ko        | 한국어
+95  | Kurdish                             | ku        | Kurdî
+96  | Kwanyana                            | kj        | Kuanyama
+97  | Lao                                 | lo        | ພາສາ
+98  | Latin                               | la        | latine
+99  | Latvian (Lettish)                   | lv        | latviešu valoda
+100 | Limburgish (Limburger)              | li        | Limburgs
+101 | Lingala                             | ln        | Lingála
+102 | Lithuanian                          | lt        | lietuvių kalba
+103 | Luga-Katanga                        | lu        | Tshiluba
+104 | Lugandan, Ganda                     | lg        | Luganda
+105 | Luxemburgish                        | lb        | Lëtzebuergesch
+106 | Manx                                | gv        | Gaelg
+107 | Macedonian                          | mk        | македонски јазик
+108 | Malagasy                            | mg        | fiteny malagasy
+109 | Malay                               | ms        | Bahasa Malaysia
+110 | Malayalam                           | ml        | മലയാളം
+111 | Maltese                             | mt        | Malti
+112 | Māori                               | mi        | te reo Māori
+113 | Marathi                             | mr        | मराठी
+114 | Marshallese                         | mh        | Kajin M̧ajeļ
+115 | Moldavian                           | mh        |
+116 | Mongolian                           | mn        | Монгол хэл
+117 | Nauru                               | na        | Ekakairũ Naoero
+118 | Navajo                              | nv        | Diné bizaad
+119 | Ndonga                              | ng        | Owambo
+120 | Northern Ndebele                    | nd        | isiNdebele
+121 | Nepali                              | ne        | नेपाली
+122 | Norwegian                           | no        | Norsk
+123 | Norwegian bokmål                    | nb        | Norsk bokmål
+124 | Norwegian nynorsk                   | nn        | Norsk nynorsk
+125 | Nuosu                               | ii        | ꆈꌠ꒿ Nuosuhxop
+126 | Occitan                             | oc        | occitan
+127 | Ojibwe                              | oj        | ᐊᓂᔑᓈᐯᒧᐎᓐ
+128 | Old Church Slavonic, Old Bulgarian  | cu        | ѩзыкъ словѣньскъ
+129 | Oriya                               | or        | ଓଡ଼ିଆ
+130 | Oromo (Afaan Oromo)                 | om        | Afaan Oromoo
+131 | Ossetian                            | os        | ирон æвзаг
+132 | Pāli                                | pi        | पाऴि
+133 | Pashto, Pushto                      | ps        | پښتو
+134 | Persian (Farsi)                     | fa        | فارسی
+135 | Polish                              | pl        | Polski
+136 | Portuguese                          | pt        | Português
+137 | Punjabi (Eastern)                   | pa        | ਪੰਜਾਬੀ
+138 | Quechua                             | qu        | Runa Simi
+139 | Romansh                             | rm        | rumantsch grischun
+140 | Romanian                            | ro        | Română 
+141 | Russian                             | ru        | Русский
+142 | Sami                                | se        | Davvisámegiella
+143 | Samoan                              | sm        |
+144 | Sango                               | sg        | yângâ tî sängö
+145 | Sanskrit                            | sa        | संस्कृतम्
+146 | Sardinian                           | sc        | sardu
+147 | Serbian                             | sr        | српски језик
+148 | Serbo-Croatian                      | sh        |
+149 | Setswana                            | tn        | Setswana
+150 | Shona                               | sn        | chiShona
+151 | Sichuan Yi                          | ii        |
+152 | Sindhi                              | sd        | सिन्धी
+153 | Sinhalese                           | si        | සිංහල
+154 | Siswati                             | ss        |
+155 | Slovak                              | sk        | slovenčina
+156 | Slovenian                           | sl        | slovenščina
+157 | Somali                              | so        | Soomaaliga
+158 | Southern Ndebele                    | nr        | isiNdebele
+159 | Southern Sotho                      | st        | Sesotho
+160 | Spanish                             | es        | Español
+161 | Sundanese                           | su        | Basa Sunda
+162 | Swahili (Kiswahili)                 | sw        | Kiswahili
+163 | Swati                               | ss        | SiSwati
+164 | Swedish                             | sv        | Svenska
+165 | Tagalog                             | tl        | Wikang Tagalog
+166 | Tahitian                            | ty        | Reo Tahiti
+167 | Tajik                               | tg        | тоҷикӣ
+168 | Tamil                               | ta        | தமிழ்
+169 | Tatar                               | tt        | татар теле
+170 | Telugu                              | te        | తెలుగు
+171 | Thai                                | th        | ไทย
+172 | Tibetan                             | bo        | བོད་ཡིག
+173 | Tigrinya                            | ti        | ትግርኛ
+174 | Tonga                               | to        | faka Tonga
+175 | Tsonga                              | ts        | Xitsonga
+176 | Turkish                             | tr        | Türkçe
+177 | Turkmen                             | tk        | Türkmen
+178 | Twi                                 | tw        | Twi
+179 | Uyghur                              | ug        | ئۇيغۇرچە
+180 | Ukrainian                           | uk        | Українська
+181 | Urdu                                | ur        | اردو
+182 | Uzbek                               | uz        | Ўзбек
+183 | Venda                               | ve        | Tshivenḓa
+184 | Vietnamese                          | vi        | Tiếng Việt
+185 | Volapük                             | vo        | Volapük
+186 | Wallon                              | wa        | walon
+187 | Welsh                               | cy        | Cymraeg
+188 | Wolof                               | wo        | Wollof
+189 | Western Frisian                     | fy        | Frysk
+190 | Xhosa                               | xh        | isiXhosa
+191 | Yiddish                             | yi, ji    | ייִדיש
+192 | Yoruba                              | yo        | Yorùbá
+193 | Zhuang, Chuang                      | za        | Saɯ cueŋƅ
+194 | Zulu                                | zu        | isiZulu
